@@ -1,6 +1,6 @@
-# LearningRepository
-LearningRepositoryTest
-Hi, I’m ChandrasekarRamamoorthi
+# Learning Repository
+Learning Repository Test
+Hi, I’m ChandrasekarR
 Testing the Github to learn the process
 I’m interested in Github
-I’m looking to collaborate with team to learn the Github
+
